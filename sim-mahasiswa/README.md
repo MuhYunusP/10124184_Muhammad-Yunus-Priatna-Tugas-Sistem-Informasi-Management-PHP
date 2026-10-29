@@ -11,17 +11,6 @@ Kelas: IF - 5
 - Dual bahasa (Indonesia / English) tersimpan di `$_SESSION`
 - Pencarian data, flash message, proteksi CSRF
 
-##  Cara Menjalankan Aplikasi (Instalasi)
-
-1. **Unduh / Clone Repositori**
-2. **Pindahkan ke Folder Server**
-   Letakkan folder `sim-mahasiswa` ke dalam direktori `htdocs` (jika menggunakan XAMPP) atau `www` (Laragon).
-3. **Nyalakan Server**
-4. **Import Database**
-5. **Konfigurasi Database**
-   Jika password MySQL Anda tidak kosong, buka file `config/database.php` dan sesuaikan bagian `$DB_PASS`.
-6. **Akses Aplikasi**
-   Buka browser dan ketikkan: `http://localhost/sim-mahasiswa/login.php`
 
 ## Akun Default
 | Username | Password  |
